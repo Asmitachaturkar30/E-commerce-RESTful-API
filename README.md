@@ -50,8 +50,10 @@ Postman<br>
     </ul>
 
 ### Screenshots:
-
 <div>
-  <img src="Screenshot/Screenshot (1).png" width="700" hspace="50">
-  <img src="Screenshot/Screenshot (3).png" width="700" hspace="5">
+     <img src="Screenshots_/CreateProduct.png" width="700" hspace="50">
+    <img src="Screenshots_/UpdateProduct.png" width="700" hspace="5">
+    <img src="Screenshots_/getAllProduct.png" width="700" hspace="5">
+    <img src="Screenshots_/getProductById.png" width="700" hspace="5">
+    <img src="Screenshots_/deleteProduct.png" width="700" hspace="5">
 </div>
