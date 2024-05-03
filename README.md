@@ -51,9 +51,9 @@ Postman<br>
 
 ### Screenshots:
 <div>
-     <img src="Screenshots_/CreateProduct.png" width="700" hspace="50">
-    <img src="Screenshots_/UpdateProduct.png" width="700" hspace="5">
-    <img src="Screenshots_/getAllProduct.png" width="700" hspace="5">
-    <img src="Screenshots_/getProductById.png" width="700" hspace="5">
-    <img src="Screenshots_/deleteProduct.png" width="700" hspace="5">
+     <img src="E_commerce/Screenshots_/CreateProduct.png" width="700" hspace="50">
+    <img src="E_commerce/Screenshots_/UpdateProduct.png" width="700" hspace="5">
+    <img src="E_commerce/Screenshots_/getAllProduct.png" width="700" hspace="5">
+    <img src="E_commerce/Screenshots_/getProductById.png" width="700" hspace="5">
+    <img src="E_commerce/Screenshots_/deleteProduct.png" width="700" hspace="5">
 </div>
