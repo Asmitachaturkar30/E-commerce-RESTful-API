@@ -1,0 +1,7 @@
+{
+    "productId": "P123456",
+    "productName": "Test Product1",
+    "price": 120.99,
+    "stockQuantity": 50,
+    "imageUrl": "https://example.com/image1.jpg"
+}
