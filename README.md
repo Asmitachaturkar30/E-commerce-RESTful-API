@@ -3,14 +3,13 @@
 
 <h2>Table of Contents</h2>
     <ul>
-        <li><strong>Introduction:</strong> Brief overview of the project, explaining its purpose and main functionalities.</li>
-        <li><strong>Features:</strong> List of key features of the project, highlighting what users can accomplish.</li>
-        <li><strong>Installation:</strong> Outline of the steps required to set up the project locally.</li>
-        <li><strong>Usage:</strong> Explanation of how to start the development server and access the API endpoints.</li>
-        <li><strong>API Endpoints:</strong> Summary of the available API endpoints and their actions.</li>
-        <li><strong>Documentation:</strong> Link to a separate documentation file providing detailed information about each API endpoint.</li>
-        <li><strong>Contributing:</strong> Encouragement for contributions to the project and instructions on how to contribute.</li>
-        <li><strong>License:</strong> Specification of the license under which the project is released.</li>
+        <li>Introduction</strong></li>
+        <li>Features</li>
+        <li>Technologies Used</li>
+        <li>Tool's Used</li>
+        <li>Usage</li>
+        <li>API Endpoints</li>
+        <li>Screenshots</li>
     </ul>
 
 <h2>Introduction</h2>
@@ -35,6 +34,11 @@ Django restframework api<br>
 vscode (Local system)<br>
 PGadmin4(Local system)<br>
 Postman<br>
+
+<h2>Usage</h2>
+    <p>1. Start the development server:</p>
+    <p>python manage.py runserver</p>
+    <p>Access the API endpoints at http://localhost:8000/.</p>
 
 <h2>API Endpoints</h2>
     <ul>
